@@ -5,6 +5,5 @@
 - 🌱 I’m currently learning Frontend and Backend Developement
 - 👯 I’m looking to collaborate on any technology
 - 📫 How to reach me: mishrasantoh2105@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
