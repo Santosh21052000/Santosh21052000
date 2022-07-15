@@ -1,3 +1,6 @@
+
+[![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQHPZhfEptXi6Q/profile-displaybackgroundimage-shrink_350_1400/0/1654776093224?e=1663200000&v=beta&t=er22iAQ0QeFRvl6eFXgNTdjmr9t-WA4ETPwTYWssMjA)]()
+
 ### Hi, 👋This is Santosh
 
 - 🤔 I'm currently a student at IIEST Shibpur, in Department of Information Technology
@@ -7,7 +10,7 @@
 - 📫 How to reach me: mishrasantoh2105@gmail.com
 <hr>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
